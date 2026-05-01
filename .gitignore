@@ -1,0 +1,33 @@
+# Cache & runtime
+cache/
+logs/
+debug/
+shell-snapshots/
+session-env/
+sessions/
+todos/
+tasks/
+telemetry/
+statsig/
+ide/
+chrome/
+paste-cache/
+file-history/
+downloads/
+backups/
+history.jsonl
+stats-cache.json
+mcp-needs-auth-cache.json
+
+# Personal/sensitive
+projects/
+settings.local.json
+.credentials.json
+*.log
+
+# Archives
+agents-archive/
+
+# OS
+.DS_Store
+Thumbs.db

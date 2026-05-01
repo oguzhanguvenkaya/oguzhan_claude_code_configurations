@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "plugins": {
+    "frontend-design@claude-plugins-official": [
+      {
+        "scope": "project",
+        "installPath": "/Users/projectx/.claude/plugins/cache/claude-plugins-official/frontend-design/unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-15T19:46:11.018Z",
+        "lastUpdated": "2026-05-01T18:42:02.825Z",
+        "projectPath": "/Users/projectx"
+      }
+    ],
+    "code-simplifier@claude-plugins-official": [
+      {
+        "scope": "project",
+        "installPath": "/Users/projectx/.claude/plugins/cache/claude-plugins-official/code-simplifier/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-15T19:46:11.018Z",
+        "lastUpdated": "2026-05-01T18:42:02.825Z",
+        "projectPath": "/Users/projectx"
+      }
+    ],
+    "claude-md-management@claude-plugins-official": [
+      {
+        "scope": "project",
+        "installPath": "/Users/projectx/.claude/plugins/cache/claude-plugins-official/claude-md-management/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-15T19:46:11.018Z",
+        "lastUpdated": "2026-05-01T18:42:02.825Z",
+        "projectPath": "/Users/projectx"
+      }
+    ],
+    "feature-dev@claude-plugins-official": [
+      {
+        "scope": "project",
+        "installPath": "/Users/projectx/.claude/plugins/cache/claude-plugins-official/feature-dev/unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-15T19:46:11.018Z",
+        "lastUpdated": "2026-05-01T18:42:02.825Z",
+        "projectPath": "/Users/projectx"
+      }
+    ]
+  }
+}
